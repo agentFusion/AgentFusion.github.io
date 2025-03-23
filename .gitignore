@@ -1,5 +1,5 @@
 cache
 tmp
-
+node_modules
 .directory
 *.kate-swp
