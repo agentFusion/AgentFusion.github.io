@@ -1,92 +1,47 @@
-        {"version":"1.1.2","migrationList":[
+{"version":"1.1.3",
+"migrationList" :[
 
-            ["/models/text_generation/phi3.4k/added_tokens.json","cofCrSTvJo0QGulVKds2QfRe7oVdDqPQB7oEKJZTOzU="],
-            ["/models/text_generation/phi3.4k/genai_config.json","sgAtkUVkgVmMdN38S8uximmOIyxcEspbJH1cdW+T4uk="],
-            ["/models/text_generation/phi3.4k/tokenizer.json","dpE/g1ziIYkamt2NyvFlayRDee5s9RJ4BKMT7HwEba0="],
-            ["/models/text_generation/phi3.4k/tokenizer_config.json","N9b5YXYoGV5xBogBltp/HeGa+2s2WODCrbX6BF872Zs="],
-            ["/models/text_generation/phi3.4k/config.json","4gNpfK9wfKjAB9sg5nQu14B+r01FA3znmetKZ402l4Q="],
-            ["/models/text_generation/phi3.4k/generation_config.json","rEdAs0zyuO1gowdYebHaFali/Wn8YWKBmNzAVUEtQsw="],
-            ["/models/text_generation/phi3.4k/special_tokens_map.json","j5BuxGHJGxjmIQgLmUt2ZAlOyHmFkKyuljgqTcF3mAk="],
-            ["/models/text_generation/qwen/added_tokens.json","WLVLvjb8dS95okonHvZqCggwBUtN+tlL3nV9hRloBgs="],
-            ["/models/text_generation/qwen/vocab.json","yhDX6fs+0YV13R4neiV5wW0QjjLydDloSvoOELFECRA="],
-            ["/models/text_generation/qwen/tokenizer.json","nFrgDmAriGDL14S6gqiqFOj+7OxpLnB2WQ0BTXt/2vo="],
-            ["/models/text_generation/qwen/tokenizer_config.json","fogSnZdpoLFLFYen1egp/pOsDhURY2Rx/fwIEZUUGOY="],
-            ["/models/text_generation/qwen/config.json","7fBE9Nfbt0H8ZKHO95bdiO8l1aAYaaeFcWjWqsCF0m4="],
-            ["/models/text_generation/qwen/generation_config.json","UZqNtm/P0NGHMet1Fp/4OTpvnEef1QFC+17iWAu5rmQ="],
-            ["/models/text_generation/qwen/merges.txt","iDHk8aBERxNA98CoPXvXEwaluGfpX9hw900MUwipBNU="],
-            ["/models/text_generation/qwen/special_tokens_map.json","doYudlJmuFqpRZdn4zy68Tlw8yeg6I0cZYRsLd06Hs0="],
-            ["/models/text_generation/arch/added_tokens.json","WLVLvjb8dS95okonHvZqCggwBUtN+tlL3nV9hRloBgs="],
-            ["/models/text_generation/arch/vocab.json","yhDX6fs+0YV13R4neiV5wW0QjjLydDloSvoOELFECRA="],
-            ["/models/text_generation/arch/tokenizer.json","nFrgDmAriGDL14S6gqiqFOj+7OxpLnB2WQ0BTXt/2vo="],
-            ["/models/text_generation/arch/tokenizer_config.json","lZ5/HZobdkGm1s4Fype3XHiU/LZsvloEBAZFj7ESjuQ="],
-            ["/models/text_generation/arch/config.json","lG6tgrs3Lx/XQjd8/epL6MTOo6ettFRLDh1PVoLTr5I="],
-            ["/models/text_generation/arch/generation_config.json","JpA52JnG87XgIL+Ts1cJv4Wh69NbfJgX+t/CrGYriSs="],
-            ["/models/text_generation/arch/merges.txt","iDHk8aBERxNA98CoPXvXEwaluGfpX9hw900MUwipBNU="],
-            ["/models/text_generation/arch/special_tokens_map.json","doYudlJmuFqpRZdn4zy68Tlw8yeg6I0cZYRsLd06Hs0="],
-            ["/models/text_generation/phi3.128k/preprocessor_config.json","esT8Vp/FigUenY7Mo0vteyPJZV1SBi4aHP0b8Sj7G60="],
-            ["/models/text_generation/phi3.128k/tokenizer.json","AF3wGvXhbnWP90waMee4kQ63XH1WJmida97kCnedRP4="],
-            ["/models/text_generation/phi3.128k/tokenizer_config.json","lIov8eHPAdBeSpiAyBRYGLPeKiywSS6z66b6gvxP2Lo="],
-            ["/models/text_generation/phi3.128k/config.json","2LTUZ3qSPU2RJ23elrQ5xCpQhQAvpoHfsAOgYk/yyvA="],
-            ["/models/text_generation/phi3.128k/generation_config.json","B2Ocq4md3gZlBZiLhjSS/qDHnajuOa62mg5H9LDyq+8="],
-            ["/models/text_generation/llama3.1b.128/genai_config.json","+U/jZLSD2tXnmD4VtExiFcyLf7+wZMC/A8WdOwepuIA="],
-            ["/models/text_generation/llama3.1b.128/tokenizer.json","eePlImNfMXEwCRO7QhRkqH3mIiGCoFcLmyzLoqlksrQ="],
-            ["/models/text_generation/llama3.1b.128/tokenizer_config.json","Jfivmxin8d7fcKegRGRuCDk1LFMu5SGDc9gTdQkc1eQ="],
-            ["/models/text_generation/llama3.1b.128/config.json","HehE3VrQ462NukLEU7H/H67GJVY4Cj3yY9ISYJE28pg="],
-            ["/models/text_generation/llama3.1b.128/generation_config.json","iO/7tjMA27xzkBQ/u92dn6UFh7N+i/0WyMkNSXCnSjY="],
-            ["/models/text_generation/llama3.1b.128/special_tokens_map.json","/blan6n9NuGkMiZnD3ma9P1NAg0HfNZtMr3kb57J7RM="],
-            ["/favicon.ico","TxKXUfa+bIAoN0sTgKQpG5hpiubPgcMdiY/WDIj/3I="],
+ ["/favicon-32x32.png","TxKXUfa+bIAogN0yTgKQpG5hpiubPgcMdiY/WDIj/3I="]
+,["/audioRecDecoder.worklet.js","sHDTkaTOuvZx52JigpqcRo+uMwcXy1fCBHxjazA2new="]
+,["/android-chrome-512x512.png","BwYauRHFs0UPyPwLLnzUMp79UFmt1Yivaxd50bw9UPs="]
+,["/manifest.json","RbuaWbqqxiKZfOWnIxYCmnmBj3TRnrgs6m96lXHCnoI="]
+,["/android-chrome-192x192.png","oFGxVn4MOepOdM5kzLbbUhju6hfsaOMRfsuEGb8IQqM="]
+,["/pwa-512x512.png","BwYauRHFs0UPyPwLLnzUMp79UFmt1Yivaxd50bw9UPs="]
+,["/images/default3.png","Vff0b0YTBtDtFTocEVDHSXfuGldCN3+7oAS77YP+DOc="]
+,["/images/default1.png","a9yZpNM1RtVjIjozLjfJNZ44uZehYuMMWjpCIDzssL8="]
+,["/images/default2.png","2Z9YRvzobgAo1Xns4UST0PNMIMYKhV6o77f+Gmjb9UQ="]
+,["/favicon.ico","dDZMxQIm+CluhKXcZ4DRddlKyJ4XPzxDvFq2JgoBNiE="]
+,["/pwa-192x192.png","oFGxVn4MOepOdM5kzLbbUhju6hfsaOMRfsuEGb8IQqM="]
+,["/favicon-16x16.png","dDZMxQIm+CluhKXcZ4DRddlKyJ4XPzxDvFq2JgoBNiE="]
+,["/apple-touch-icon.png","E4XY6Nz9Ku6TC0VZ/AGxA296Xd7tKFkhKe4KynT5Rqc="]
+,["/index.html","4wtf/Bqj29lyXKAKHfUHEBfeLO548su0sqQqHnJ6Iuk="]
+,["/fonts/MaterialCommunityIcons.ttf","biEyi7cPCdqSjAM95zaIItliUKHM0qFqb0fedqPMYb0="]
+,["/assets/pdfjs-CCkQUyo-.js","dzazX5u8gjpcmyIxlhQi1rz/VRhJi2anzD0Mwx1N7WQ="]
+,["/assets/index-DIwIu4Ev.js","e+I+9vyKA7273RIUGdrMWQEhq/XQ0jNNjuag83jTKWQ="]
+,["/assets/browser-X7k9oRm4.js","XdlfqCDLwso0ZC6S4s9sb2j/aBA3bMUeDRqyBfYZRkw="]
+,["/assets/__vite-browser-external-BIHI7g3E.js","glB7C7msSv+usXxAlo2DDL1tFKL/oE2JlPrxp45Y4bU="]
+,["/assets/browser-B7gTBnDh.js","XdlfqCDLwso0ZC6S4s9sb2j/aBA3bMUeDRqyBfYZRkw="]
+,["/phonemization_data/en.ids.json","ZsHHGeBeTGtK8gsYvWIfnJUHSlmEEIRRPK5DziuSvZc="]
+,["/","4wtf/Bqj29lyXKAKHfUHEBfeLO548su0sqQqHnJ6Iuk="]],
+"onDemandFiles":[
+ ["/onnx/18/ort-wasm-simd.wasm","H0B+RlekAwnb2dmRc1CS7xfvaPmRoifk8NDvRMLALJU="]
+,["/onnx/20/ort-wasm-simd-threaded.jsep.wasm","8SVYOtuYaG/kSsZSqSRldHm0hJX+yxnG5n1PbqhCd98="]
+,["/models/onnx-community/silero-vad/onnx/model.onnx","fakeHash_v1_0"]
+,["https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/amy/low/en_US-amy-low.onnx.json","fakeHash_v1_0"]
+,["https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/amy/low/en_US-amy-low.onnx","fakeHash_v1_1"]
+,["https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/gitignore.txt","fakeHash_v1_2"]
+,["https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/tokenizer.json","fakeHash_v1_3"]
+,["https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/tokenizer_config.json","fakeHash_v1_4"]
+,["https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/config.json","fakeHash_v1_5"]
+,["https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/onnx/model.onnx","fakeHash_v1_6"]
+,["https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/gitattributes.txt","fakeHash_v1_7"]
+,["https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/special_tokens_map.json","fakeHash_v1_8"]
+,["https://huggingface.co/Xenova/all-MiniLM-L6-v2/resolve/main/vocab.txt","fakeHash_v1_9"]
+,["https://huggingface.co/Xenova/all-MiniLM-L6-v2/resolve/main/tokenizer.json","fakeHash_v1_10"]
+,["https://huggingface.co/Xenova/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json","fakeHash_v1_11"]
+,["https://huggingface.co/Xenova/all-MiniLM-L6-v2/resolve/main/config.json","fakeHash_v1_12"]
+,["https://huggingface.co/Xenova/all-MiniLM-L6-v2/resolve/main/onnx/model_quantized.onnx","fakeHash_v1_13"]
+,["https://huggingface.co/Xenova/all-MiniLM-L6-v2/resolve/main/special_tokens_map.json","fakeHash_v1_14"]
 
-            ["/favicon-32x32.png","TxKXUfa+bIAogN0yTgKQpG5hpiubPgcMdiY/WDIj/3I="],
-            ["/audioRecDecoder.worklet.js","sHDTkaTOuvZx52JigpqcRo+uMwcXy1fCBHxjazA2new="],
-            ["/android-chrome-512x512.png","BwYauRHFs0UPyPwLLnzUMp79UFmt1Yivaxd50bw9UPs="],
-            ["/manifest.json","RbuaWbqqxiKZfOWnIxYCmnmBj3TRnrgs6m96lXHCnoI="],
-            ["/android-chrome-192x192.png","oFGxVn4MOepOdM5kzLbbUhju6hfsaOMRfsuEGb8IQqM="],
-            ["/pwa-512x512.png","BwYauRHFs0UPyPwLLnzUMp79UFmt1Yivaxd50bw9UPs="],
-            ["/images/default3.png","Vff0b0YTBtDtFTocEVDHSXfuGldCN3+7oAS77YP+DOc="],
-            ["/images/default1.png","a9yZpNM1RtVjIjozLjfJNZ44uZehYuMMWjpCIDzssL8="],
-            ["/images/default2.png","2Z9YRvzobgAo1Xns4UST0PNMIMYKhV6o77f+Gmjb9UQ="],
-            ["/pwa-192x192.png","oFGxVn4MOepOdM5kzLbbUhju6hfsaOMRfsuEGb8IQqM="],
-            ["/favicon-16x16.png","dDZMxQIm+CluhKXcZ4DRddlKyJ4XPzxDvFq2JgoBNiE="],
-
-            ["/apple-touch-icon.png","E4XY6Nz9Ku6TC0VZ/AGxA296Xd7tKFkhKe4KynT5Rqc="],
-            ["/fonts/MaterialCommunityIcons.ttf","biEyi7cPCdqSjAM95zaIItliUKHM0qFqb0fedqPMYb0="],
-            ["/assets/pdfjs-CCkQUyo-.js","dzazX5u8gjpcmyIxlhQi1rz/VRhJi2anzD0Mwx1N7WQ="],
-            ["/assets/index-CBnXVrQX.js","xJZdwV4uuZ7PQ6jCcjDp8l/D4OsOdKmekzRoStUvIHc="],
-            ["/assets/browser-COnHLC40.js","sKtsy3X7IbfNXvaHTqcb06FXEln9tgPxbXe58XuPVmU="],
-            ["/assets/browser-p7SpqxLO.js","sKtsy3X7IbfNXvaHTqcb06FXEln9tgPxbXe58XuPVmU="],
-            ["/assets/vite-browser-external-BIHI7g3E.js","glB7C7msSv+usXxAlo2DDL1tFKL/oE2JlPrxp45Y4bU="],
-            ["/phonemization_data/en.ids.json","ZsHHGeBeTGtK8gsYvWIfnJUHSlmEEIRRPK5DziuSvZc="],
-            ["/index.html","kaU2CWpAU8RpBgezfvMbnY/Oj60CVMRJql0HpGxfnjs="],
-            ["/","kaU2CWpAU8RpBgezfvMbnY/Oj60CVMRJql0HpGxfnjs="]
-            ],
-            "onDemandFiles":[
-            ["/models/vad/silero/silero_vad.onnx","o16/Uv085fFGmyo2FY26dhvEe5c+ozgrMYbKFbH1ryg="],
-
-            ["/onnx/18/ort-wasm-simd.wasm","H0B+RlekAwnb2dmRc1CS7xfvaPmRoifk8NDvRMLALJU="],
-            ["/onnx/20/ort-wasm-simd-threaded.jsep.wasm","8SVYOtuYaG/kSsZSqSRldHm0hJX+yxnG5n1PbqhCd98="],
-            ["https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/amy/low/en_US-amy-low.onnx.json","fakeHashhttps://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/amy/low/en_US-amy-low.onnx.json"],
-            ["https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/amy/low/en_US-amy-low.onnx","fakeHashhttps://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/amy/low/en_US-amy-low.onnx"],
-            ["https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/tokenizer.json","fakeHashhttps://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/tokenizer.json"],
-            ["https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/tokenizer_config.json","fakeHashhttps://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/tokenizer_config.json"],
-            ["https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/config.json","fakeHashhttps://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/config.json"],
-            ["https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/onnx/model.onnx","fakeHashhttps://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/onnx/model.onnx"],
-            ["https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/special_tokens_map.json","fakeHashhttps://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/special_tokens_map.json"],
-            ["https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/vocab.txt","fakeHashhttps://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/vocab.txt"],
-            ["https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer.json","fakeHashhttps://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer.json"],
-            ["https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json","fakeHashhttps://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json"],
-            ["https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json","fakeHashhttps://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json"],
-            ["https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/onnx/model_quantized.onnx","fakeHashhttps://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/onnx/model_quantized.onnx"],
-            ["https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/special_tokens_map.json","fakeHashhttps://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/special_tokens_map.json"],
-            ["https://huggingface.co/Xenova/whisper-tiny.en/resolve/main/added_tokens.json","fakeHashhttps://huggingface.co/Xenova/whisper-tiny.en/resolve/main/added_tokens.json"],
-            ["https://huggingface.co/Xenova/whisper-tiny.en/resolve/main/vocab.json","fakeHashhttps://huggingface.co/Xenova/whisper-tiny.en/resolve/main/vocab.json"],
-            ["https://huggingface.co/Xenova/whisper-tiny.en/resolve/main/normalizer.json","fakeHashhttps://huggingface.co/Xenova/whisper-tiny.en/resolve/main/normalizer.json"],
-            ["https://huggingface.co/Xenova/whisper-tiny.en/resolve/main/preprocessor_config.json","fakeHashhttps://huggingface.co/Xenova/whisper-tiny.en/resolve/main/preprocessor_config.json"],
-            ["https://huggingface.co/Xenova/whisper-tiny.en/resolve/main/tokenizer.json","fakeHashhttps://huggingface.co/Xenova/whisper-tiny.en/resolve/main/tokenizer.json"],
-            ["https://huggingface.co/Xenova/whisper-tiny.en/resolve/main/tokenizer_config.json","fakeHashhttps://huggingface.co/Xenova/whisper-tiny.en/resolve/main/tokenizer_config.json"],
-            ["https://huggingface.co/Xenova/whisper-tiny.en/resolve/main/config.json","fakeHashhttps://huggingface.co/Xenova/whisper-tiny.en/resolve/main/config.json"],
-            ["https://huggingface.co/Xenova/whisper-tiny.en/resolve/main/generation_config.json","fakeHashhttps://huggingface.co/Xenova/whisper-tiny.en/resolve/main/generation_config.json"],
-            ["https://huggingface.co/Xenova/whisper-tiny.en/resolve/main/onnx/encoder_model_quantized.onnx","fakeHashhttps://huggingface.co/Xenova/whisper-tiny.en/resolve/main/onnx/encoder_model_quantized.onnx"],
-            ["https://huggingface.co/Xenova/whisper-tiny.en/resolve/main/onnx/decoder_model_merged_quantized.onnx","fakeHashhttps://huggingface.co/Xenova/whisper-tiny.en/resolve/main/onnx/decoder_model_merged_quantized.onnx"],
-            ["https://huggingface.co/Xenova/whisper-tiny.en/resolve/main/merges.txt","fakeHashhttps://huggingface.co/Xenova/whisper-tiny.en/resolve/main/merges.txt"],
-            ["https://huggingface.co/Xenova/whisper-tiny.en/resolve/main/special_tokens_map.json","fakeHashhttps://huggingface.co/Xenova/whisper-tiny.en/resolve/main/special_tokens_map.json"]],
-            "dataVersion":"1.1.1","forceUpdateVersions":[]}
+],
+"dataVersion":"1.1.1","forceUpdateVersions":[]}
