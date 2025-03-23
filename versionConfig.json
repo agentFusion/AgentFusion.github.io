@@ -1,4 +1,4 @@
-{"version":"1.1.3",
+{"version":"1.1.4",
 "migrationList" :[
 
  ["/favicon-32x32.png","TxKXUfa+bIAogN0yTgKQpG5hpiubPgcMdiY/WDIj/3I="]
@@ -14,14 +14,14 @@
 ,["/pwa-192x192.png","oFGxVn4MOepOdM5kzLbbUhju6hfsaOMRfsuEGb8IQqM="]
 ,["/favicon-16x16.png","dDZMxQIm+CluhKXcZ4DRddlKyJ4XPzxDvFq2JgoBNiE="]
 ,["/apple-touch-icon.png","E4XY6Nz9Ku6TC0VZ/AGxA296Xd7tKFkhKe4KynT5Rqc="]
-,["/index.html","4wtf/Bqj29lyXKAKHfUHEBfeLO548su0sqQqHnJ6Iuk="]
+,["/index.html","4wtf/Baj29lyXKAKHfUHEBfeLO548su0sqQqHnJ6Iuk="]
 ,["/fonts/MaterialCommunityIcons.ttf","biEyi7cPCdqSjAM95zaIItliUKHM0qFqb0fedqPMYb0="]
-,["/assets/pdfjs-CCkQUyo-.js","dzazX5u8gjpcmyIxlhQi1rz/VRhJi2anzD0Mwx1N7WQ="]
-,["/assets/index-DIwIu4Ev.js","e+I+9vyKA7273RIUGdrMWQEhq/XQ0jNNjuag83jTKWQ="]
-,["/assets/browser-X7k9oRm4.js","XdlfqCDLwso0ZC6S4s9sb2j/aBA3bMUeDRqyBfYZRkw="]
-,["/assets/browser-B7gTBnDh.js","XdlfqCDLwso0ZC6S4s9sb2j/aBA3bMUeDRqyBfYZRkw="]
+,["/assets/pdfjs-CCkQUyo-.js","dzazX5w8gjpcmyIxlhQi1rz/VRhJi2anzD0Mwx1N7WQ="]
+,["/assets/index-BKCLNaCI.js","e+I+9ssKA7273RIUGdrMWQEhq/XQ0jNNjuag83jTKWQ="]
+,["/assets/browser-DzCPQhmC.js","XdlfqCDLwqo0ZC6S4s9sb2j/aBA3bMUeDRqyBfYZRkw="]
+,["/assets/browser-IrSunLgy.js","XdlfdCDLwso0ZC6S4s9sb2j/aBA3bMUeDRqyBfYZRkw="]
 ,["/phonemization_data/en.ids.json","ZsHHGeBeTGtK8gsYvWIfnJUHSlmEEIRRPK5DziuSvZc="]
-,["/","4wtf/Bqj29lyXKAKHfUHEBfeLO548su0sqQqHnJ6Iuk="]],
+,["/","4wtf/Baj29lyXKAKHfUHEBfeLO548su0sqQqHnJ6Iuk="]],
 "onDemandFiles":[
  ["/onnx/18/ort-wasm-simd.wasm","H0B+RlekAwnb2dmRc1CS7xfvaPmRoifk8NDvRMLALJU="]
 ,["/onnx/20/ort-wasm-simd-threaded.jsep.wasm","8SVYOtuYaG/kSsZSqSRldHm0hJX+yxnG5n1PbqhCd98="]
