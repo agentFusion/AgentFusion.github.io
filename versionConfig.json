@@ -1,46 +1,165 @@
-{"version":"1.1.4",
-"migrationList" :[
-
- ["/favicon-32x32.png","TxKXUfa+bIAogN0yTgKQpG5hpiubPgcMdiY/WDIj/3I="]
-,["/audioRecDecoder.worklet.js","sHDTkaTOuvZx52JigpqcRo+uMwcXy1fCBHxjazA2new="]
-,["/android-chrome-512x512.png","BwYauRHFs0UPyPwLLnzUMp79UFmt1Yivaxd50bw9UPs="]
-,["/manifest.json","RbuaWbqqxiKZfOWnIxYCmnmBj3TRnrgs6m96lXHCnoI="]
-,["/android-chrome-192x192.png","oFGxVn4MOepOdM5kzLbbUhju6hfsaOMRfsuEGb8IQqM="]
-,["/pwa-512x512.png","BwYauRHFs0UPyPwLLnzUMp79UFmt1Yivaxd50bw9UPs="]
-,["/images/default3.png","Vff0b0YTBtDtFTocEVDHSXfuGldCN3+7oAS77YP+DOc="]
-,["/images/default1.png","a9yZpNM1RtVjIjozLjfJNZ44uZehYuMMWjpCIDzssL8="]
-,["/images/default2.png","2Z9YRvzobgAo1Xns4UST0PNMIMYKhV6o77f+Gmjb9UQ="]
-,["/favicon.ico","dDZMxQIm+CluhKXcZ4DRddlKyJ4XPzxDvFq2JgoBNiE="]
-,["/pwa-192x192.png","oFGxVn4MOepOdM5kzLbbUhju6hfsaOMRfsuEGb8IQqM="]
-,["/favicon-16x16.png","dDZMxQIm+CluhKXcZ4DRddlKyJ4XPzxDvFq2JgoBNiE="]
-,["/apple-touch-icon.png","E4XY6Nz9Ku6TC0VZ/AGxA296Xd7tKFkhKe4KynT5Rqc="]
-,["/index.html","4wtf/Baj29lyXKAKHfUHEBfeLO548su0sqQqHnJ6Iuk="]
-,["/fonts/MaterialCommunityIcons.ttf","biEyi7cPCdqSjAM95zaIItliUKHM0qFqb0fedqPMYb0="]
-,["/assets/pdfjs-CCkQUyo-.js","dzazX5w8gjpcmyIxlhQi1rz/VRhJi2anzD0Mwx1N7WQ="]
-,["/assets/index-BKCLNaCI.js","e+I+9ssKA7273RIUGdrMWQEhq/XQ0jNNjuag83jTKWQ="]
-,["/assets/browser-DzCPQhmC.js","XdlfqCDLwqo0ZC6S4s9sb2j/aBA3bMUeDRqyBfYZRkw="]
-,["/assets/browser-IrSunLgy.js","XdlfdCDLwso0ZC6S4s9sb2j/aBA3bMUeDRqyBfYZRkw="]
-,["/phonemization_data/en.ids.json","ZsHHGeBeTGtK8gsYvWIfnJUHSlmEEIRRPK5DziuSvZc="]
-,["/","4wtf/Baj29lyXKAKHfUHEBfeLO548su0sqQqHnJ6Iuk="]],
-"onDemandFiles":[
- ["/onnx/18/ort-wasm-simd.wasm","H0B+RlekAwnb2dmRc1CS7xfvaPmRoifk8NDvRMLALJU="]
-,["/onnx/20/ort-wasm-simd-threaded.jsep.wasm","8SVYOtuYaG/kSsZSqSRldHm0hJX+yxnG5n1PbqhCd98="]
-,["/models/onnx-community/silero-vad/onnx/model.onnx","fakeHash_v1_0"]
-,["https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/amy/low/en_US-amy-low.onnx.json","fakeHash_v1_0"]
-,["https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/amy/low/en_US-amy-low.onnx","fakeHash_v1_1"]
-,["https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/gitignore.txt","fakeHash_v1_2"]
-,["https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/tokenizer.json","fakeHash_v1_3"]
-,["https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/tokenizer_config.json","fakeHash_v1_4"]
-,["https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/config.json","fakeHash_v1_5"]
-,["https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/onnx/model.onnx","fakeHash_v1_6"]
-,["https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/gitattributes.txt","fakeHash_v1_7"]
-,["https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/special_tokens_map.json","fakeHash_v1_8"]
-,["https://huggingface.co/Xenova/all-MiniLM-L6-v2/resolve/main/vocab.txt","fakeHash_v1_9"]
-,["https://huggingface.co/Xenova/all-MiniLM-L6-v2/resolve/main/tokenizer.json","fakeHash_v1_10"]
-,["https://huggingface.co/Xenova/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json","fakeHash_v1_11"]
-,["https://huggingface.co/Xenova/all-MiniLM-L6-v2/resolve/main/config.json","fakeHash_v1_12"]
-,["https://huggingface.co/Xenova/all-MiniLM-L6-v2/resolve/main/onnx/model_quantized.onnx","fakeHash_v1_13"]
-,["https://huggingface.co/Xenova/all-MiniLM-L6-v2/resolve/main/special_tokens_map.json","fakeHash_v1_14"]
-
-],
-"dataVersion":"1.1.1","forceUpdateVersions":[]}
+{
+    "version": "1.1.5",
+    "migrationList": [
+        [
+            "/favicon-32x32.png",
+            "TxKXUfa+bIAogN0yTgKQpG5hpiubPgcMdiY/WDIj/3I="
+        ],
+        [
+            "/audioRecDecoder.worklet.js",
+            "sHDTkaTOuvZx52JigpqcRo+uMwcXy1fCBHxjazA2new="
+        ],
+        [
+            "/android-chrome-512x512.png",
+            "BwYauRHFs0UPyPwLLnzUMp79UFmt1Yivaxd50bw9UPs="
+        ],
+        [
+            "/manifest.json",
+            "RbuaWbqqxiKZfOWnIxYCmnmBj3TRnrgs6m96lXHCnoI="
+        ],
+        [
+            "/android-chrome-192x192.png",
+            "oFGxVn4MOepOdM5kzLbbUhju6hfsaOMRfsuEGb8IQqM="
+        ],
+        [
+            "/pwa-512x512.png",
+            "BwYauRHFs0UPyPwLLnzUMp79UFmt1Yivaxd50bw9UPs="
+        ],
+        [
+            "/images/default3.png",
+            "Vff0b0YTBtDtFTocEVDHSXfuGldCN3+7oAS77YP+DOc="
+        ],
+        [
+            "/images/default1.png",
+            "a9yZpNM1RtVjIjozLjfJNZ44uZehYuMMWjpCIDzssL8="
+        ],
+        [
+            "/images/default2.png",
+            "2Z9YRvzobgAo1Xns4UST0PNMIMYKhV6o77f+Gmjb9UQ="
+        ],
+        [
+            "/favicon.ico",
+            "dDZMxQIm+CluhKXcZ4DRddlKyJ4XPzxDvFq2JgoBNiE="
+        ],
+        [
+            "/pwa-192x192.png",
+            "oFGxVn4MOepOdM5kzLbbUhju6hfsaOMRfsuEGb8IQqM="
+        ],
+        [
+            "/favicon-16x16.png",
+            "dDZMxQIm+CluhKXcZ4DRddlKyJ4XPzxDvFq2JgoBNiE="
+        ],
+        [
+            "/apple-touch-icon.png",
+            "E4XY6Nz9Ku6TC0VZ/AGxA296Xd7tKFkhKe4KynT5Rqc="
+        ],
+        [
+            "/index.html",
+            "FazSIZNsKQWAQQwLtKPnxQWPiQsnJl26zu7jjBRrxxE="
+        ],
+        [
+            "/fonts/MaterialCommunityIcons.ttf",
+            "biEyi7cPCdqSjAM95zaIItliUKHM0qFqb0fedqPMYb0="
+        ],
+        [
+            "/assets/index-DbEGdpbd.js",
+            "rXe0M2/TeZ6wmv7E6R8sfIZ9DCSdnhCopZlReeS1dLg="
+        ],
+        [
+            "/assets/pdfjs-CCkQUyo-.js",
+            "dzazX5u8gjpcmyIxlhQi1rz/VRhJi2anzD0Mwx1N7WQ="
+        ],
+        [
+            "/assets/browser-DiT28C99.js",
+            "iobzOefFeRZtnH9bq78RigfJvv9zOSSvtgIJGzSGFDc="
+        ],
+        [
+            "/assets/browser-Nm0Uq7Yv.js",
+            "iobzOefFeRZtnH9bq78RigfJvv9zOSSvtgIJGzSGFDc="
+        ],
+        [
+            "/phonemization_data/en.ids.json",
+            "ZsHHGeBeTGtK8gsYvWIfnJUHSlmEEIRRPK5DziuSvZc="
+        ],
+        [
+            "/",
+            "FazSIZNsKQWAQQwLtKPnxQWPiQsnJl26zu7jjBRrxxE="
+        ]
+    ],
+    "onDemandFiles": [
+        [
+            "/onnx/18/ort-wasm-simd.wasm",
+            "H0B+RlekAwnb2dmRc1CS7xfvaPmRoifk8NDvRMLALJU="
+        ],
+        [
+            "/onnx/20/ort-wasm-simd-threaded.jsep.wasm",
+            "8SVYOtuYaG/kSsZSqSRldHm0hJX+yxnG5n1PbqhCd98="
+        ],
+        [
+            "/models/onnx-community/silero-vad/onnx/model.onnx",
+            "fakeHash_v1_0"
+        ],
+        [
+            "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/amy/low/en_US-amy-low.onnx.json",
+            "fakeHash_v1_0"
+        ],
+        [
+            "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/amy/low/en_US-amy-low.onnx",
+            "fakeHash_v1_1"
+        ],
+        [
+            "https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/gitignore.txt",
+            "fakeHash_v1_2"
+        ],
+        [
+            "https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/tokenizer.json",
+            "fakeHash_v1_3"
+        ],
+        [
+            "https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/tokenizer_config.json",
+            "fakeHash_v1_4"
+        ],
+        [
+            "https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/config.json",
+            "fakeHash_v1_5"
+        ],
+        [
+            "https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/onnx/model.onnx",
+            "fakeHash_v1_6"
+        ],
+        [
+            "https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/gitattributes.txt",
+            "fakeHash_v1_7"
+        ],
+        [
+            "https://huggingface.co/jinaai/jina-reranker-v2-base-multilingual/resolve/main/special_tokens_map.json",
+            "fakeHash_v1_8"
+        ],
+        [
+            "https://huggingface.co/Xenova/all-MiniLM-L6-v2/resolve/main/vocab.txt",
+            "fakeHash_v1_9"
+        ],
+        [
+            "https://huggingface.co/Xenova/all-MiniLM-L6-v2/resolve/main/tokenizer.json",
+            "fakeHash_v1_10"
+        ],
+        [
+            "https://huggingface.co/Xenova/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json",
+            "fakeHash_v1_11"
+        ],
+        [
+            "https://huggingface.co/Xenova/all-MiniLM-L6-v2/resolve/main/config.json",
+            "fakeHash_v1_12"
+        ],
+        [
+            "https://huggingface.co/Xenova/all-MiniLM-L6-v2/resolve/main/onnx/model_quantized.onnx",
+            "fakeHash_v1_13"
+        ],
+        [
+            "https://huggingface.co/Xenova/all-MiniLM-L6-v2/resolve/main/special_tokens_map.json",
+            "fakeHash_v1_14"
+        ]
+    ],
+    "dataVersion": "1.1.1",
+    "forceUpdateVersions": []
+}

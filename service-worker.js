@@ -51,6 +51,3 @@ serviceWorker2.addEventListener("install", install_event);
 serviceWorker2.addEventListener("activate", activate_event);
 serviceWorker2.addEventListener("message", message_event);
 serviceWorker2.addEventListener("fetch", fetch_event);
- {
-  serviceWorker_sharedVars
-};
