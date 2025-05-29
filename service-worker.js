@@ -9,7 +9,7 @@ async function fetch_event(fetchEvent) {
 }
 async function fetchHelper(fetchEvent) {
   const mainCache = await caches.open(serviceWorker_sharedVars.mainCacheName);
-  const response = await mainCache.match(fetchEvent.request);
+  const response = await mainCache.match(fetchEvent.request, {});
   if (response)
     return response;
   return fetch(fetchEvent.request);
