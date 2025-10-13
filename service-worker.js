@@ -16,6 +16,7 @@ async function fetchHelper(fetchEvent) {
 }
 
 // sw/service-worker/install_event.ts
+var serviceWorker = self;
 async function install_event(event) {
   console.log("install...", serviceWorker_sharedVars.appVersion_);
   return event.waitUntil(cacheAll());
@@ -23,7 +24,6 @@ async function install_event(event) {
 async function cacheAll() {
   serviceWorker.skipWaiting();
 }
-var serviceWorker = self;
 
 // sw/service-worker/message_event.ts
 async function message_event(event) {
