@@ -1,0 +1,1 @@
+import{j as t,b as l,ab as i}from"./osRouter-DXC_0-pa.js";function c(e){return t.jsx(t.Fragment,{children:t.jsx(l,{style:e.style,icon:"import",onPress:()=>{i({accept:e.accept,onFileSelect:e.onFileSelect_,tmpFileName:e.tmpFileName})},...e,children:e.children})})}export{c as F};
