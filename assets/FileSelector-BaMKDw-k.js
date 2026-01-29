@@ -1,0 +1,1 @@
+import{j as t,a as i,ae as n}from"./osRouter-C6z0YJ-K.js";function l(e){return t.jsx(t.Fragment,{children:t.jsx(i,{style:e.style,icon:"import",onPress:()=>{n({accept:e.accept,onFileSelect:e.onFileSelect_,tmpFileName:e.tmpFileName,useDocumentsDirInsteadOfCacheDir:e.useDocumentsDirInsteadOfCacheDir})},...e,children:e.children})})}export{l as F};
