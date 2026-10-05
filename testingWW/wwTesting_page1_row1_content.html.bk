@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+
+<body style="background-color: green;">
+    <img id="img" src="http://localhost:3001/testingWW/default1.png" />
+    <div>this is a test</div>
+</body>
+
+</html>

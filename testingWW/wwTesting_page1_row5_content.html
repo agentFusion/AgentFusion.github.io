@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Simple Form - Math CAPTCHA</title>
+</head>
+<body>
+
+    <h2>Contact Form</h2>
+
+    <form action="#" method="POST">
+        <!-- Name -->
+        <label for="name">Name:</label><br />
+        <input type="text" id="name" name="name" required /><br /><br />
+
+        <!-- Email -->
+        <label for="email">Email:</label><br />
+        <input type="email" id="email" name="email" required /><br /><br />
+
+        <!-- Message -->
+        <label for="message">Message:</label><br />
+        <textarea id="message" name="message" rows="4" required></textarea><br /><br />
+
+        <!-- Math CAPTCHA (Question & Answer) -->
+        <label for="captcha">What is 6 + 4?</label><br />
+        <input type="text" id="captcha" name="captcha" placeholder="Enter the number" required />
+        <br /><br />
+
+        <!-- Submit -->
+        <button type="submit">Send</button>
+    </form>
+
+    <!-- 
+        SERVER-SIDE NOTE (for testing):
+        When processing the form, check if the submitted "captcha" field equals "10".
+        For a real implementation, you would randomize the numbers on the server 
+        and store the expected answer in a session or hidden field.
+    -->
+
+</body>
+</html>

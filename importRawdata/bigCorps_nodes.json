@@ -1,0 +1,927 @@
+[
+  {
+    "title": "Major Software Companies",
+    "content": "",
+    "img": "icons/Network"
+  },
+  {
+    "title": "Microsoft",
+    "content": "Microsoft - A technology corporation developing software, electronics, and PCs.",
+    "img": "icons/microsoft"
+  },
+  {
+    "title": "Alphabet Inc.",
+    "content": "Alphabet Inc. - Parent company of Google and other tech ventures.",
+    "img": "icons/google"
+  },
+  {
+    "title": "Apple Inc.",
+    "content": "Apple Inc. - Designs, develops, and sells consumer electronics, software, and online services.",
+    "img": "icons/apple"
+  },
+  {
+    "title": "Amazon",
+    "content": "Amazon - Multinational technology company focusing on e-commerce, cloud computing, and AI.",
+    "img": "icons/amazon"
+  },
+  {
+    "title": "Microsoft Cloud & AI",
+    "content": "Microsoft Cloud & AI - Division focusing on cloud services and artificial intelligence.",
+    "img": "icons/microsoft-azure"
+  },
+  {
+    "title": "Microsoft Productivity & Business",
+    "content": "Microsoft Productivity & Business - Software for productivity and enterprise solutions.",
+    "img": "icons/microsoft-office"
+  },
+  {
+    "title": "Microsoft Gaming",
+    "content": "Microsoft Gaming - Division focused on gaming consoles and services.",
+    "img": "icons/microsoft-xbox"
+  },
+  {
+    "title": "Google Search & Ads",
+    "content": "Google Search & Ads - Core search engine and advertising platforms.",
+    "img": "icons/google-circles-extended"
+  },
+  {
+    "title": "Google Cloud (GCP)",
+    "content": "Google Cloud (GCP) - Suite of cloud computing services.",
+    "img": "icons/google-cloud"
+  },
+  {
+    "title": "Google Platforms & Ecosystems",
+    "content": "Google Platforms & Ecosystems - Android, Chrome, and Play Store.",
+    "img": "icons/android"
+  },
+  {
+    "title": "Apple Operating Systems",
+    "content": "Apple Operating Systems - Software platforms for Apple devices.",
+    "img": "icons/apple-finder"
+  },
+  {
+    "title": "Apple Applications & Services",
+    "content": "Apple Applications & Services - Software applications and online services.",
+    "img": "icons/apple-icloud"
+  },
+  {
+    "title": "Apple Vision & Spatial",
+    "content": "Apple Vision & Spatial - Division for spatial computing and visionOS.",
+    "img": "icons/virtual-reality"
+  },
+  {
+    "title": "Amazon Web Services (AWS)",
+    "content": "Amazon Web Services (AWS) - Comprehensive cloud computing platform.",
+    "img": "icons/aws"
+  },
+  {
+    "title": "Amazon Devices & Digital",
+    "content": "Amazon Devices & Digital - Consumer electronics and digital content.",
+    "img": "icons/tablet-cellphone"
+  },
+  {
+    "title": "Amazon E-commerce Technology",
+    "content": "Amazon E-commerce Technology - Software powering the Amazon marketplace.",
+    "img": "icons/cart-outline"
+  },
+  {
+    "title": "Azure Compute Services",
+    "content": "Azure Compute Services - Provides on-demand computing resources.",
+    "img": "icons/server-network"
+  },
+  {
+    "title": "Azure AI Platform",
+    "content": "Azure AI Platform - Tools and services for building AI applications.",
+    "img": "icons/brain"
+  },
+  {
+    "title": "Microsoft 365 Suite",
+    "content": "Microsoft 365 Suite - Subscription service including Office apps and cloud services.",
+    "img": "icons/apps-box"
+  },
+  {
+    "title": "Microsoft Dynamics 365",
+    "content": "Microsoft Dynamics 365 - ERP and CRM business applications.",
+    "img": "icons/briefcase-variant-outline"
+  },
+  {
+    "title": "Xbox Hardware",
+    "content": "Xbox Hardware - Gaming consoles and accessories.",
+    "img": "icons/gamepad-variant"
+  },
+  {
+    "title": "Xbox Game Studios & Services",
+    "content": "Xbox Game Studios & Services - Game development and subscription services.",
+    "img": "icons/controller-box-outline"
+  },
+  {
+    "title": "Google Search Engine",
+    "content": "Google Search Engine - Web search technology and algorithms.",
+    "img": "icons/magnify"
+  },
+  {
+    "title": "Google Ads Platform",
+    "content": "Google Ads Platform - Online advertising service.",
+    "img": "icons/google-ads"
+  },
+  {
+    "title": "GCP Infrastructure",
+    "content": "GCP Infrastructure - Core compute, storage, and networking.",
+    "img": "icons/server"
+  },
+  {
+    "title": "GCP Data & AI",
+    "content": "GCP Data & AI - Services for data analytics and machine learning.",
+    "img": "icons/database-eye-outline"
+  },
+  {
+    "title": "Android OS",
+    "content": "Android OS - Mobile operating system.",
+    "img": "icons/cellphone"
+  },
+  {
+    "title": "Google Play Services",
+    "content": "Google Play Services - App store and developer services.",
+    "img": "icons/google-play"
+  },
+  {
+    "title": "macOS",
+    "content": "macOS - Operating system for Mac computers.",
+    "img": "icons/desktop-mac"
+  },
+  {
+    "title": "iOS & iPadOS",
+    "content": "iOS & iPadOS - Operating systems for iPhone and iPad.",
+    "img": "icons/cellphone-iphone"
+  },
+  {
+    "title": "Pro Apps",
+    "content": "Pro Apps - Professional software for creative tasks.",
+    "img": "icons/application-edit-outline"
+  },
+  {
+    "title": "Online Services",
+    "content": "Online Services - Cloud-based services like App Store, Music, and TV+.",
+    "img": "icons/cloud-sync-outline"
+  },
+  {
+    "title": "visionOS Platform",
+    "content": "visionOS Platform - Operating system for Apple Vision Pro.",
+    "img": "icons/eye-outline"
+  },
+  {
+    "title": "Vision Pro Apps Ecosystem",
+    "content": "Vision Pro Apps Ecosystem - Applications and experiences for visionOS.",
+    "img": "icons/augmented-reality"
+  },
+  {
+    "title": "AWS Compute",
+    "content": "AWS Compute - Scalable computing capacity in the AWS cloud.",
+    "img": "icons/server-plus"
+  },
+  {
+    "title": "AWS Storage & Databases",
+    "content": "AWS Storage & Databases - Data storage and database solutions.",
+    "img": "icons/database-outline"
+  },
+  {
+    "title": "Alexa AI & Voice Services",
+    "content": "Alexa AI & Voice Services - Voice-controlled intelligent personal assistant.",
+    "img": "icons/amazon-alexa"
+  },
+  {
+    "title": "Kindle E-readers & Content",
+    "content": "Kindle E-readers & Content - E-reader devices and digital book platform.",
+    "img": "icons/book-open-page-variant-outline"
+  },
+  {
+    "title": "Marketplace Platform Services",
+    "content": "Marketplace Platform Services - Core technology for the online retail platform.",
+    "img": "icons/store-cog-outline"
+  },
+  {
+    "title": "Customer Experience & AI",
+    "content": "Customer Experience & AI - Software for personalization and customer interaction.",
+    "img": "icons/account-heart-outline"
+  },
+  {
+    "title": "Azure Virtual Machines",
+    "content": "Azure Virtual Machines - Scalable virtual servers in the Azure cloud.",
+    "img": "icons/desktop-classic"
+  },
+  {
+    "title": "Azure App Service",
+    "content": "Azure App Service - Platform for building, deploying, and scaling web apps.",
+    "img": "icons/application-braces-outline"
+  },
+  {
+    "title": "Azure OpenAI Service",
+    "content": "Azure OpenAI Service - Access to OpenAI's powerful language models.",
+    "img": "icons/robot-happy-outline"
+  },
+  {
+    "title": "Azure Machine Learning",
+    "content": "Azure Machine Learning - Service for building and deploying ML models.",
+    "img": "icons/chart-bell-curve"
+  },
+  {
+    "title": "Microsoft Word",
+    "content": "Microsoft Word - Word processing software.",
+    "img": "icons/file-word-outline"
+  },
+  {
+    "title": "Microsoft Excel",
+    "content": "Microsoft Excel - Spreadsheet software.",
+    "img": "icons/file-excel-outline"
+  },
+  {
+    "title": "Dynamics Sales",
+    "content": "Dynamics Sales - CRM tools for sales automation and management.",
+    "img": "icons/account-cash-outline"
+  },
+  {
+    "title": "Dynamics Finance",
+    "content": "Dynamics Finance - Financial management and accounting solutions.",
+    "img": "icons/finance"
+  },
+  {
+    "title": "Xbox Series X/S",
+    "content": "Xbox Series X/S - Latest generation Xbox gaming consoles.",
+    "img": "icons/controller-classic-outline"
+  },
+  {
+    "title": "Xbox Accessories",
+    "content": "Xbox Accessories - Controllers, headsets, and other gaming peripherals.",
+    "img": "icons/headset"
+  },
+  {
+    "title": "Xbox Game Pass",
+    "content": "Xbox Game Pass - Subscription service for a library of games.",
+    "img": "icons/microsoft-xbox-controller-menu"
+  },
+  {
+    "title": "Xbox Cloud Gaming",
+    "content": "Xbox Cloud Gaming - Stream games to various devices.",
+    "img": "icons/cloud-gaming"
+  },
+  {
+    "title": "Search Indexing",
+    "content": "Search Indexing - System for crawling and indexing web content.",
+    "img": "icons/database-search-outline"
+  },
+  {
+    "title": "Search Ranking AI",
+    "content": "Search Ranking AI - AI models for ranking search results.",
+    "img": "icons/sort-variant-lock-open"
+  },
+  {
+    "title": "AdWords Engine",
+    "content": "AdWords Engine - Core technology for keyword bidding and ad placement.",
+    "img": "icons/target-account"
+  },
+  {
+    "title": "AdSense Network",
+    "content": "AdSense Network - Program for website monetization through ads.",
+    "img": "icons/web"
+  },
+  {
+    "title": "Compute Engine (GCE)",
+    "content": "Compute Engine (GCE) - Virtual machine instances on GCP.",
+    "img": "icons/desktop-tower-monitor"
+  },
+  {
+    "title": "Google Kubernetes Engine (GKE)",
+    "content": "Google Kubernetes Engine (GKE) - Managed Kubernetes service.",
+    "img": "icons/kubernetes"
+  },
+  {
+    "title": "BigQuery",
+    "content": "BigQuery - Serverless, highly scalable, and cost-effective multicloud data warehouse.",
+    "img": "icons/database-sync-outline"
+  },
+  {
+    "title": "Vertex AI",
+    "content": "Vertex AI - Unified machine learning platform.",
+    "img": "icons/brain"
+  },
+  {
+    "title": "Android Core Platform",
+    "content": "Android Core Platform - Base operating system and APIs.",
+    "img": "icons/cellphone-cog"
+  },
+  {
+    "title": "Android Auto",
+    "content": "Android Auto - Android platform for car dashboards.",
+    "img": "icons/car-connected"
+  },
+  {
+    "title": "Play Store Distribution",
+    "content": "Play Store Distribution - Platform for distributing Android apps.",
+    "img": "icons/store-search-outline"
+  },
+  {
+    "title": "Play Protect Security",
+    "content": "Play Protect Security - Security features for Android apps.",
+    "img": "icons/shield-check-outline"
+  },
+  {
+    "title": "macOS Core Services",
+    "content": "macOS Core Services - Foundational services and frameworks of macOS.",
+    "img": "icons/cog-outline"
+  },
+  {
+    "title": "macOS UI (Aqua)",
+    "content": "macOS UI (Aqua) - Graphical user interface and design language.",
+    "img": "icons/palette-outline"
+  },
+  {
+    "title": "iOS Core Services",
+    "content": "iOS Core Services - Foundational services for iOS applications.",
+    "img": "icons/chip"
+  },
+  {
+    "title": "iPadOS Multitasking",
+    "content": "iPadOS Multitasking - Features for using multiple apps on iPad.",
+    "img": "icons/view-grid-plus-outline"
+  },
+  {
+    "title": "Final Cut Pro",
+    "content": "Final Cut Pro - Professional video editing software.",
+    "img": "icons/filmstrip"
+  },
+  {
+    "title": "Logic Pro",
+    "content": "Logic Pro - Digital audio workstation and MIDI sequencer.",
+    "img": "icons/music-box-multiple-outline"
+  },
+  {
+    "title": "App Store Platform",
+    "content": "App Store Platform - Digital distribution platform for apps.",
+    "img": "icons/store-outline"
+  },
+  {
+    "title": "Apple Music Service",
+    "content": "Apple Music Service - Music and video streaming service.",
+    "img": "icons/music-note-eighth"
+  },
+  {
+    "title": "Spatial Computing Engine",
+    "content": "Spatial Computing Engine - Core technology for 3D interfaces and interactions.",
+    "img": "icons/rotate-3d-variant"
+  },
+  {
+    "title": "Persona & EyeSight",
+    "content": "Persona & EyeSight - Avatar creation and external display features.",
+    "img": "icons/account-tie-voice-outline"
+  },
+  {
+    "title": "Immersive Entertainment Apps",
+    "content": "Immersive Entertainment Apps - Spatial video and gaming experiences.",
+    "img": "icons/movie-open-outline"
+  },
+  {
+    "title": "Spatial Productivity Tools",
+    "content": "Spatial Productivity Tools - Apps for work and collaboration in 3D space.",
+    "img": "icons/briefcase-eye-outline"
+  },
+  {
+    "title": "Amazon EC2",
+    "content": "Amazon EC2 - Elastic Compute Cloud for virtual servers.",
+    "img": "icons/desktop-tower"
+  },
+  {
+    "title": "AWS Lambda",
+    "content": "AWS Lambda - Serverless compute service.",
+    "img": "icons/function"
+  },
+  {
+    "title": "Amazon S3",
+    "content": "Amazon S3 - Scalable object storage service.",
+    "img": "icons/bucket-outline"
+  },
+  {
+    "title": "Amazon RDS",
+    "content": "Amazon RDS - Managed relational database service.",
+    "img": "icons/database-settings-outline"
+  },
+  {
+    "title": "Alexa Skills Kit (ASK)",
+    "content": "Alexa Skills Kit (ASK) - Tools for building voice experiences for Alexa.",
+    "img": "icons/puzzle-edit-outline"
+  },
+  {
+    "title": "Alexa Smart Home",
+    "content": "Alexa Smart Home - Platform for controlling smart home devices.",
+    "img": "icons/home-automation"
+  },
+  {
+    "title": "Kindle Device Software",
+    "content": "Kindle Device Software - Operating system and features for Kindle e-readers.",
+    "img": "icons/tablet"
+  },
+  {
+    "title": "Kindle Direct Publishing (KDP)",
+    "content": "Kindle Direct Publishing (KDP) - Self-publishing platform for authors.",
+    "img": "icons/upload-network-outline"
+  },
+  {
+    "title": "Seller Central Tech",
+    "content": "Seller Central Tech - Tools and APIs for third-party sellers.",
+    "img": "icons/api"
+  },
+  {
+    "title": "Fulfillment & Logistics Software",
+    "content": "Fulfillment & Logistics Software - Systems for managing inventory and shipping.",
+    "img": "icons/truck-delivery-outline"
+  },
+  {
+    "title": "Recommendation Engines",
+    "content": "Recommendation Engines - AI algorithms for product recommendations.",
+    "img": "icons/lightbulb-on-outline"
+  },
+  {
+    "title": "Customer Service Platforms",
+    "content": "Customer Service Platforms - Software for managing customer support.",
+    "img": "icons/face-agent"
+  },
+  {
+    "title": "VM Instance Series",
+    "content": "VM Instance Series - Specialized VM types for various workloads (e.g., general, compute-optimized).",
+    "img": "icons/view-list-outline"
+  },
+  {
+    "title": "VM Availability Sets",
+    "content": "VM Availability Sets - Protect applications from hardware failures within a datacenter.",
+    "img": "icons/server-network-off"
+  },
+  {
+    "title": "App Service Plans",
+    "content": "App Service Plans - Define the region, instance size, and features for web apps.",
+    "img": "icons/file-settings-outline"
+  },
+  {
+    "title": "Deployment Slots",
+    "content": "Deployment Slots - Stage and swap app versions with no downtime.",
+    "img": "icons/swap-horizontal-variant"
+  },
+  {
+    "title": "GPT Model Deployments",
+    "content": "GPT Model Deployments - Manage and access various GPT models like GPT-4, GPT-3.5.",
+    "img": "icons/brain-outline"
+  },
+  {
+    "title": "Content Filtering & Safety",
+    "content": "Content Filtering & Safety - Built-in safety systems for responsible AI.",
+    "img": "icons/shield-search"
+  },
+  {
+    "title": "ML Studio Components",
+    "content": "ML Studio Components - Tools like notebooks, datasets, and model registries.",
+    "img": "icons/puzzle-outline"
+  },
+  {
+    "title": "MLOps Capabilities",
+    "content": "MLOps Capabilities - Practices for workflow automation and model lifecycle management.",
+    "img": "icons/cogs"
+  },
+  {
+    "title": "Word Templates & Styles",
+    "content": "Word Templates & Styles - Pre-designed document formats and styling options.",
+    "img": "icons/file-document-edit-outline"
+  },
+  {
+    "title": "Word Collaboration Features",
+    "content": "Word Collaboration Features - Real-time co-authoring and commenting.",
+    "img": "icons/account-multiple-plus-outline"
+  },
+  {
+    "title": "Excel Formulas & Functions",
+    "content": "Excel Formulas & Functions - Tools for calculations and data analysis.",
+    "img": "icons/function-variant"
+  },
+  {
+    "title": "Excel PivotTables & Charts",
+    "content": "Excel PivotTables & Charts - Data summarization and visualization tools.",
+    "img": "icons/chart-pie-outline"
+  },
+  {
+    "title": "Lead & Opportunity Management",
+    "content": "Lead & Opportunity Management - Track and manage sales leads and deals.",
+    "img": "icons/filter-variant"
+  },
+  {
+    "title": "Sales Forecasting",
+    "content": "Sales Forecasting - Predict future sales revenue and performance.",
+    "img": "icons/chart-line"
+  },
+  {
+    "title": "General Ledger & Reporting",
+    "content": "General Ledger & Reporting - Core accounting and financial statement generation.",
+    "img": "icons/calculator-variant-outline"
+  },
+  {
+    "title": "Budgeting & Planning",
+    "content": "Budgeting & Planning - Tools for financial planning and budget control.",
+    "img": "icons/cash-register"
+  },
+  {
+    "title": "Custom SoC & Velocity Architecture",
+    "content": "Custom SoC & Velocity Architecture - Core hardware technology for performance.",
+    "img": "icons/cpu-64-bit"
+  },
+  {
+    "title": "Quick Resume Feature",
+    "content": "Quick Resume Feature - Instantly switch between multiple games.",
+    "img": "icons/play-pause"
+  },
+  {
+    "title": "Elite Wireless Controller Series",
+    "content": "Elite Wireless Controller Series - High-performance customizable controllers.",
+    "img": "icons/gamepad-circle-outline"
+  },
+  {
+    "title": "Xbox Wireless Headset",
+    "content": "Xbox Wireless Headset - Audio peripheral for immersive gaming.",
+    "img": "icons/headphones"
+  },
+  {
+    "title": "Game Pass Tiers (Core, Ultimate)",
+    "content": "Game Pass Tiers (Core, Ultimate) - Different levels of subscription benefits.",
+    "img": "icons/layers-outline"
+  },
+  {
+    "title": "First-Party Exclusive Titles",
+    "content": "First-Party Exclusive Titles - Games developed by Xbox Game Studios.",
+    "img": "icons/star-circle-outline"
+  },
+  {
+    "title": "Cross-Platform Compatibility",
+    "content": "Cross-Platform Compatibility - Play on consoles, PC, and mobile devices.",
+    "img": "icons/devices"
+  },
+  {
+    "title": "Progressive Web App (PWA) Access",
+    "content": "Progressive Web App (PWA) Access - Access cloud gaming via web browsers.",
+    "img": "icons/web-box"
+  },
+  {
+    "title": "Crawler Bot (Googlebot)",
+    "content": "Crawler Bot (Googlebot) - Software that discovers and indexes web pages.",
+    "img": "icons/robot-outline"
+  },
+  {
+    "title": "Indexing Pipeline",
+    "content": "Indexing Pipeline - Processes for organizing and storing web data.",
+    "img": "icons/pipe"
+  },
+  {
+    "title": "RankBrain Algorithm",
+    "content": "RankBrain Algorithm - AI system to understand query meaning.",
+    "img": "icons/brain-outline"
+  },
+  {
+    "title": "BERT & MUM Models",
+    "content": "BERT & MUM Models - Advanced language models for search relevance.",
+    "img": "icons/comment-text-multiple-outline"
+  },
+  {
+    "title": "Keyword Auction System",
+    "content": "Keyword Auction System - Real-time bidding for ad display.",
+    "img": "icons/gavel"
+  },
+  {
+    "title": "Quality Score Metric",
+    "content": "Quality Score Metric - Rating of ad relevance and landing page experience.",
+    "img": "icons/star-half-full"
+  },
+  {
+    "title": "Publisher Ad Integration",
+    "content": "Publisher Ad Integration - Tools for websites to display Google ads.",
+    "img": "icons/code-tags"
+  },
+  {
+    "title": "Contextual Ad Targeting",
+    "content": "Contextual Ad Targeting - Matching ads to website content.",
+    "img": "icons/target-variant"
+  },
+  {
+    "title": "GCE Machine Types",
+    "content": "GCE Machine Types - Various VM configurations (e.g., N1, E2).",
+    "img": "icons/format-list-checks"
+  },
+  {
+    "title": "GCE Persistent Disks",
+    "content": "GCE Persistent Disks - Durable block storage for VMs.",
+    "img": "icons/harddisk"
+  },
+  {
+    "title": "GKE Autopilot Mode",
+    "content": "GKE Autopilot Mode - Fully managed Kubernetes cluster operations.",
+    "img": "icons/robot-industrial"
+  },
+  {
+    "title": "GKE Cluster Management",
+    "content": "GKE Cluster Management - Tools for creating, scaling, and managing clusters.",
+    "img": "icons/lan-connect"
+  },
+  {
+    "title": "BigQuery ML",
+    "content": "BigQuery ML - Create and run ML models using SQL.",
+    "img": "icons/database-search"
+  },
+  {
+    "title": "BigQuery Omni",
+    "content": "BigQuery Omni - Analyze data across clouds like AWS and Azure.",
+    "img": "icons/cloud-search-outline"
+  },
+  {
+    "title": "Vertex AI Workbench",
+    "content": "Vertex AI Workbench - Jupyter-based notebooks for ML development.",
+    "img": "icons/notebook-edit-outline"
+  },
+  {
+    "title": "Vertex AI Pipelines",
+    "content": "Vertex AI Pipelines - Automate and manage ML workflows.",
+    "img": "icons/pipe-leak"
+  },
+  {
+    "title": "Android Runtime (ART)",
+    "content": "Android Runtime (ART) - Managed runtime for executing Android apps.",
+    "img": "icons/run-fast"
+  },
+  {
+    "title": "Android SDK & NDK",
+    "content": "Android SDK & NDK - Development kits for Android apps.",
+    "img": "icons/hammer-wrench"
+  },
+  {
+    "title": "App Projection Technology",
+    "content": "App Projection Technology - Displays phone apps on car screen.",
+    "img": "icons/projector-screen-outline"
+  },
+  {
+    "title": "Voice Integration with Google Assistant",
+    "content": "Voice Integration with Google Assistant - Hands-free control using voice.",
+    "img": "icons/microphone-message"
+  },
+  {
+    "title": "App Discovery Algorithms",
+    "content": "App Discovery Algorithms - Systems for recommending apps to users.",
+    "img": "icons/compass-rose"
+  },
+  {
+    "title": "Developer Console & Analytics",
+    "content": "Developer Console & Analytics - Tools for app publishing and performance tracking.",
+    "img": "icons/chart-bar-stacked"
+  },
+  {
+    "title": "Malware Scanning",
+    "content": "Malware Scanning - Scans apps for malicious behavior.",
+    "img": "icons/shield-bug-outline"
+  },
+  {
+    "title": "App Permission Management",
+    "content": "App Permission Management - Controls app access to device resources.",
+    "img": "icons/shield-lock-outline"
+  },
+  {
+    "title": "Darwin Kernel",
+    "content": "Darwin Kernel - Core Unix-based operating system components.",
+    "img": "icons/penguin"
+  },
+  {
+    "title": "Metal Graphics API",
+    "content": "Metal Graphics API - Low-level API for GPU programming.",
+    "img": "icons/expansion-card-variant"
+  },
+  {
+    "title": "Finder Application",
+    "content": "Finder Application - Default file manager and graphical shell.",
+    "img": "icons/folder-search-outline"
+  },
+  {
+    "title": "Continuity Features",
+    "content": "Continuity Features - Seamless integration between Apple devices.",
+    "img": "icons/connection"
+  },
+  {
+    "title": "Core Animation Framework",
+    "content": "Core Animation Framework - Powers fluid animations and UI effects.",
+    "img": "icons/animation-play-outline"
+  },
+  {
+    "title": "UIKit Framework",
+    "content": "UIKit Framework - Manages user interface elements and interactions.",
+    "img": "icons/gesture-tap-button"
+  },
+  {
+    "title": "Stage Manager",
+    "content": "Stage Manager - Organize apps and windows in a new way.",
+    "img": "icons/application-variable-outline"
+  },
+  {
+    "title": "Split View & Slide Over",
+    "content": "Split View & Slide Over - Run multiple apps side-by-side.",
+    "img": "icons/view-split-vertical"
+  },
+  {
+    "title": "Magnetic Timeline",
+    "content": "Magnetic Timeline - Flexible and trackless video editing interface.",
+    "img": "icons/timeline-text-outline"
+  },
+  {
+    "title": "ProRes Codec Support",
+    "content": "ProRes Codec Support - High-quality video codec for professional workflows.",
+    "img": "icons/video-stabilization"
+  },
+  {
+    "title": "Live Loops & Sampler",
+    "content": "Live Loops & Sampler - Tools for music creation and production.",
+    "img": "icons/audio-input-rca"
+  },
+  {
+    "title": "Dolby Atmos Mixing",
+    "content": "Dolby Atmos Mixing - Create immersive spatial audio projects.",
+    "img": "icons/surround-sound"
+  },
+  {
+    "title": "App Review Process",
+    "content": "App Review Process - Ensures app quality and safety standards.",
+    "img": "icons/shield-check"
+  },
+  {
+    "title": "In-App Purchase System",
+    "content": "In-App Purchase System - Monetization framework for app developers.",
+    "img": "icons/credit-card-plus-outline"
+  },
+  {
+    "title": "Spatial Audio with Dolby Atmos",
+    "content": "Spatial Audio with Dolby Atmos - Immersive audio experience.",
+    "img": "icons/speaker-wireless"
+  },
+  {
+    "title": "Lossless Audio Quality",
+    "content": "Lossless Audio Quality - High-fidelity sound streaming.",
+    "img": "icons/quality-high"
+  },
+  {
+    "title": "Real-time 3D Rendering",
+    "content": "Real-time 3D Rendering - Powers the immersive visual experience.",
+    "img": "icons/panorama-variant-outline"
+  },
+  {
+    "title": "Hand & Eye Tracking",
+    "content": "Hand & Eye Tracking - Input methods for navigating visionOS.",
+    "img": "icons/hand-pointing-up"
+  },
+  {
+    "title": "Dynamic Persona Generation",
+    "content": "Dynamic Persona Generation - Creates realistic 3D avatars from scans.",
+    "img": "icons/creation-outline"
+  },
+  {
+    "title": "EyeSight Display Technology",
+    "content": "EyeSight Display Technology - Shows user's eyes to external viewers.",
+    "img": "icons/projector-screen-variant-outline"
+  },
+  {
+    "title": "3D Movie Playback",
+    "content": "3D Movie Playback - Watch movies in an immersive 3D environment.",
+    "img": "icons/theater"
+  },
+  {
+    "title": "Spatial Games",
+    "content": "Spatial Games - Interactive games designed for spatial computing.",
+    "img": "icons/gamepad-square-outline"
+  },
+  {
+    "title": "Infinite Canvas Apps",
+    "content": "Infinite Canvas Apps - Expansive workspaces for productivity apps.",
+    "img": "icons/vector-square"
+  },
+  {
+    "title": "Collaborative Spatial Environments",
+    "content": "Collaborative Spatial Environments - Shared virtual spaces for teamwork.",
+    "img": "icons/users-group"
+  },
+  {
+    "title": "EC2 Instance Types (e.g., t3, m5)",
+    "content": "EC2 Instance Types (e.g., t3, m5) - Various VM configurations for workloads.",
+    "img": "icons/format-list-numbered"
+  },
+  {
+    "title": "EC2 Auto Scaling",
+    "content": "EC2 Auto Scaling - Automatically adjust EC2 capacity.",
+    "img": "icons/arrow-expand-all"
+  },
+  {
+    "title": "Lambda Runtimes (Node.js, Python)",
+    "content": "Lambda Runtimes (Node.js, Python) - Supported programming languages.",
+    "img": "icons/language-javascript"
+  },
+  {
+    "title": "Lambda Event Triggers",
+    "content": "Lambda Event Triggers - Invoke functions based on events.",
+    "img": "icons/lightning-bolt-outline"
+  },
+  {
+    "title": "S3 Storage Classes (Standard, Glacier)",
+    "content": "S3 Storage Classes (Standard, Glacier) - Options for data access frequency and cost.",
+    "img": "icons/archive-outline"
+  },
+  {
+    "title": "S3 Versioning & Lifecycle",
+    "content": "S3 Versioning & Lifecycle - Manage object versions and transitions.",
+    "img": "icons/history"
+  },
+  {
+    "title": "RDS Database Engines (MySQL, PostgreSQL)",
+    "content": "RDS Database Engines (MySQL, PostgreSQL) - Supported relational database systems.",
+    "img": "icons/database-marker-outline"
+  },
+  {
+    "title": "RDS Multi-AZ Deployments",
+    "content": "RDS Multi-AZ Deployments - High availability and failover support.",
+    "img": "icons/database-refresh-outline"
+  },
+  {
+    "title": "Custom Skill Development",
+    "content": "Custom Skill Development - Create personalized voice applications.",
+    "img": "icons/voice-recognition-variant"
+  },
+  {
+    "title": "Skill Monetization Options",
+    "content": "Skill Monetization Options - Ways to earn revenue from Alexa skills.",
+    "img": "icons/cash-usd"
+  },
+  {
+    "title": "Device Discovery & Control APIs",
+    "content": "Device Discovery & Control APIs - Integrate and manage smart devices.",
+    "img": "icons/remote-desktop"
+  },
+  {
+    "title": "Smart Home Routines",
+    "content": "Smart Home Routines - Automate sequences of smart home actions.",
+    "img": "icons/lightbulb-group-outline"
+  },
+  {
+    "title": "E-Ink Display Drivers",
+    "content": "E-Ink Display Drivers - Software for managing Kindle's paper-like screen.",
+    "img": "icons/page-layout-body"
+  },
+  {
+    "title": "Whispersync Technology",
+    "content": "Whispersync Technology - Synchronizes reading progress across devices.",
+    "img": "icons/sync"
+  },
+  {
+    "title": "eBook & Paperback Publishing",
+    "content": "eBook & Paperback Publishing - Tools for creating and distributing books.",
+    "img": "icons/book-edit-outline"
+  },
+  {
+    "title": "Royalty & Reporting Systems",
+    "content": "Royalty & Reporting Systems - Track sales and earnings for authors.",
+    "img": "icons/file-chart-outline"
+  },
+  {
+    "title": "Inventory Management Systems",
+    "content": "Inventory Management Systems - Software for tracking and managing stock.",
+    "img": "icons/package-variant-closed"
+  },
+  {
+    "title": "Listing & Catalog APIs",
+    "content": "Listing & Catalog APIs - Programmatic access to product listings.",
+    "img": "icons/format-list-bulleted-square"
+  },
+  {
+    "title": "Fulfillment by Amazon (FBA) Systems",
+    "content": "Fulfillment by Amazon (FBA) Systems - Software managing Amazon's fulfillment centers.",
+    "img": "icons/warehouse"
+  },
+  {
+    "title": "Shipping & Delivery Optimization",
+    "content": "Shipping & Delivery Optimization - Algorithms for efficient logistics.",
+    "img": "icons/map-marker-path"
+  },
+  {
+    "title": "Collaborative Filtering Algorithms",
+    "content": "Collaborative Filtering Algorithms - Recommends items based on user behavior.",
+    "img": "icons/account-multiple-check-outline"
+  },
+  {
+    "title": "Personalized Search Results",
+    "content": "Personalized Search Results - Tailors product search to individual users.",
+    "img": "icons/magnify-scan"
+  },
+  {
+    "title": "AI-Powered Chatbots & Support",
+    "content": "AI-Powered Chatbots & Support - Automated customer assistance.",
+    "img": "icons/robot-confused-outline"
+  },
+  {
+    "title": "Ticketing & Case Management",
+    "content": "Ticketing & Case Management - Systems for tracking customer inquiries.",
+    "img": "icons/ticket-confirmation-outline"
+  }
+]

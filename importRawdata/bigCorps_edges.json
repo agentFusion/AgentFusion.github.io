@@ -1,0 +1,923 @@
+[
+  {
+    "from": "Major Software Companies",
+    "to": "Microsoft",
+    "relation": ""
+  },
+   {
+    "from": "Major Software Companies",
+    "to": "Alphabet Inc.",
+    "relation": ""
+  },
+   {
+    "from": "Major Software Companies",
+    "to": "Apple Inc.",
+    "relation": ""
+  },
+   {
+    "from": "Major Software Companies",
+    "to": "Amazon",
+    "relation": ""
+  },
+  {
+    "from": "Microsoft",
+    "to": "Microsoft Cloud & AI",
+    "relation": "contains division"
+  },
+  {
+    "from": "Microsoft",
+    "to": "Microsoft Productivity & Business",
+    "relation": "contains division"
+  },
+  {
+    "from": "Microsoft",
+    "to": "Microsoft Gaming",
+    "relation": "contains division"
+  },
+  {
+    "from": "Microsoft Cloud & AI",
+    "to": "Azure Compute Services",
+    "relation": "manages group"
+  },
+  {
+    "from": "Microsoft Cloud & AI",
+    "to": "Azure AI Platform",
+    "relation": "manages group"
+  },
+  {
+    "from": "Azure Compute Services",
+    "to": "Azure Virtual Machines",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Azure Compute Services",
+    "to": "Azure App Service",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Azure Virtual Machines",
+    "to": "VM Instance Series",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Azure Virtual Machines",
+    "to": "VM Availability Sets",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Azure App Service",
+    "to": "App Service Plans",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Azure App Service",
+    "to": "Deployment Slots",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Azure AI Platform",
+    "to": "Azure OpenAI Service",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Azure AI Platform",
+    "to": "Azure Machine Learning",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Azure OpenAI Service",
+    "to": "GPT Model Deployments",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Azure OpenAI Service",
+    "to": "Content Filtering & Safety",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Azure Machine Learning",
+    "to": "ML Studio Components",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Azure Machine Learning",
+    "to": "MLOps Capabilities",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Microsoft Productivity & Business",
+    "to": "Microsoft 365 Suite",
+    "relation": "manages group"
+  },
+  {
+    "from": "Microsoft Productivity & Business",
+    "to": "Microsoft Dynamics 365",
+    "relation": "manages group"
+  },
+  {
+    "from": "Microsoft 365 Suite",
+    "to": "Microsoft Word",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Microsoft 365 Suite",
+    "to": "Microsoft Excel",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Microsoft Word",
+    "to": "Word Templates & Styles",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Microsoft Word",
+    "to": "Word Collaboration Features",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Microsoft Excel",
+    "to": "Excel Formulas & Functions",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Microsoft Excel",
+    "to": "Excel PivotTables & Charts",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Microsoft Dynamics 365",
+    "to": "Dynamics Sales",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Microsoft Dynamics 365",
+    "to": "Dynamics Finance",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Dynamics Sales",
+    "to": "Lead & Opportunity Management",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Dynamics Sales",
+    "to": "Sales Forecasting",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Dynamics Finance",
+    "to": "General Ledger & Reporting",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Dynamics Finance",
+    "to": "Budgeting & Planning",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Microsoft Gaming",
+    "to": "Xbox Hardware",
+    "relation": "manages group"
+  },
+  {
+    "from": "Microsoft Gaming",
+    "to": "Xbox Game Studios & Services",
+    "relation": "manages group"
+  },
+  {
+    "from": "Xbox Hardware",
+    "to": "Xbox Series X/S",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Xbox Hardware",
+    "to": "Xbox Accessories",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Xbox Series X/S",
+    "to": "Custom SoC & Velocity Architecture",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Xbox Series X/S",
+    "to": "Quick Resume Feature",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Xbox Accessories",
+    "to": "Elite Wireless Controller Series",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Xbox Accessories",
+    "to": "Xbox Wireless Headset",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Xbox Game Studios & Services",
+    "to": "Xbox Game Pass",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Xbox Game Studios & Services",
+    "to": "Xbox Cloud Gaming",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Xbox Game Pass",
+    "to": "Game Pass Tiers (Core, Ultimate)",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Xbox Game Pass",
+    "to": "First-Party Exclusive Titles",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Xbox Cloud Gaming",
+    "to": "Cross-Platform Compatibility",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Xbox Cloud Gaming",
+    "to": "Progressive Web App (PWA) Access",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Alphabet Inc.",
+    "to": "Google Search & Ads",
+    "relation": "contains division"
+  },
+  {
+    "from": "Alphabet Inc.",
+    "to": "Google Cloud (GCP)",
+    "relation": "contains division"
+  },
+  {
+    "from": "Alphabet Inc.",
+    "to": "Google Platforms & Ecosystems",
+    "relation": "contains division"
+  },
+  {
+    "from": "Google Search & Ads",
+    "to": "Google Search Engine",
+    "relation": "manages group"
+  },
+  {
+    "from": "Google Search & Ads",
+    "to": "Google Ads Platform",
+    "relation": "manages group"
+  },
+  {
+    "from": "Google Search Engine",
+    "to": "Search Indexing",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Google Search Engine",
+    "to": "Search Ranking AI",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Search Indexing",
+    "to": "Crawler Bot (Googlebot)",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Search Indexing",
+    "to": "Indexing Pipeline",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Search Ranking AI",
+    "to": "RankBrain Algorithm",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Search Ranking AI",
+    "to": "BERT & MUM Models",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Google Ads Platform",
+    "to": "AdWords Engine",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Google Ads Platform",
+    "to": "AdSense Network",
+    "relation": "offers feature"
+  },
+  {
+    "from": "AdWords Engine",
+    "to": "Keyword Auction System",
+    "relation": "provides detail"
+  },
+  {
+    "from": "AdWords Engine",
+    "to": "Quality Score Metric",
+    "relation": "provides detail"
+  },
+  {
+    "from": "AdSense Network",
+    "to": "Publisher Ad Integration",
+    "relation": "provides detail"
+  },
+  {
+    "from": "AdSense Network",
+    "to": "Contextual Ad Targeting",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Google Cloud (GCP)",
+    "to": "GCP Infrastructure",
+    "relation": "manages group"
+  },
+  {
+    "from": "Google Cloud (GCP)",
+    "to": "GCP Data & AI",
+    "relation": "manages group"
+  },
+  {
+    "from": "GCP Infrastructure",
+    "to": "Compute Engine (GCE)",
+    "relation": "offers feature"
+  },
+  {
+    "from": "GCP Infrastructure",
+    "to": "Google Kubernetes Engine (GKE)",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Compute Engine (GCE)",
+    "to": "GCE Machine Types",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Compute Engine (GCE)",
+    "to": "GCE Persistent Disks",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Google Kubernetes Engine (GKE)",
+    "to": "GKE Autopilot Mode",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Google Kubernetes Engine (GKE)",
+    "to": "GKE Cluster Management",
+    "relation": "provides detail"
+  },
+  {
+    "from": "GCP Data & AI",
+    "to": "BigQuery",
+    "relation": "offers feature"
+  },
+  {
+    "from": "GCP Data & AI",
+    "to": "Vertex AI",
+    "relation": "offers feature"
+  },
+  {
+    "from": "BigQuery",
+    "to": "BigQuery ML",
+    "relation": "provides detail"
+  },
+  {
+    "from": "BigQuery",
+    "to": "BigQuery Omni",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Vertex AI",
+    "to": "Vertex AI Workbench",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Vertex AI",
+    "to": "Vertex AI Pipelines",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Google Platforms & Ecosystems",
+    "to": "Android OS",
+    "relation": "manages group"
+  },
+  {
+    "from": "Google Platforms & Ecosystems",
+    "to": "Google Play Services",
+    "relation": "manages group"
+  },
+  {
+    "from": "Android OS",
+    "to": "Android Core Platform",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Android OS",
+    "to": "Android Auto",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Android Core Platform",
+    "to": "Android Runtime (ART)",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Android Core Platform",
+    "to": "Android SDK & NDK",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Android Auto",
+    "to": "App Projection Technology",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Android Auto",
+    "to": "Voice Integration with Google Assistant",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Google Play Services",
+    "to": "Play Store Distribution",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Google Play Services",
+    "to": "Play Protect Security",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Play Store Distribution",
+    "to": "App Discovery Algorithms",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Play Store Distribution",
+    "to": "Developer Console & Analytics",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Play Protect Security",
+    "to": "Malware Scanning",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Play Protect Security",
+    "to": "App Permission Management",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Apple Inc.",
+    "to": "Apple Operating Systems",
+    "relation": "contains division"
+  },
+  {
+    "from": "Apple Inc.",
+    "to": "Apple Applications & Services",
+    "relation": "contains division"
+  },
+  {
+    "from": "Apple Inc.",
+    "to": "Apple Vision & Spatial",
+    "relation": "contains division"
+  },
+  {
+    "from": "Apple Operating Systems",
+    "to": "macOS",
+    "relation": "manages group"
+  },
+  {
+    "from": "Apple Operating Systems",
+    "to": "iOS & iPadOS",
+    "relation": "manages group"
+  },
+  {
+    "from": "macOS",
+    "to": "macOS Core Services",
+    "relation": "offers feature"
+  },
+  {
+    "from": "macOS",
+    "to": "macOS UI (Aqua)",
+    "relation": "offers feature"
+  },
+  {
+    "from": "macOS Core Services",
+    "to": "Darwin Kernel",
+    "relation": "provides detail"
+  },
+  {
+    "from": "macOS Core Services",
+    "to": "Metal Graphics API",
+    "relation": "provides detail"
+  },
+  {
+    "from": "macOS UI (Aqua)",
+    "to": "Finder Application",
+    "relation": "provides detail"
+  },
+  {
+    "from": "macOS UI (Aqua)",
+    "to": "Continuity Features",
+    "relation": "provides detail"
+  },
+  {
+    "from": "iOS & iPadOS",
+    "to": "iOS Core Services",
+    "relation": "offers feature"
+  },
+  {
+    "from": "iOS & iPadOS",
+    "to": "iPadOS Multitasking",
+    "relation": "offers feature"
+  },
+  {
+    "from": "iOS Core Services",
+    "to": "Core Animation Framework",
+    "relation": "provides detail"
+  },
+  {
+    "from": "iOS Core Services",
+    "to": "UIKit Framework",
+    "relation": "provides detail"
+  },
+  {
+    "from": "iPadOS Multitasking",
+    "to": "Stage Manager",
+    "relation": "provides detail"
+  },
+  {
+    "from": "iPadOS Multitasking",
+    "to": "Split View & Slide Over",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Apple Applications & Services",
+    "to": "Pro Apps",
+    "relation": "manages group"
+  },
+  {
+    "from": "Apple Applications & Services",
+    "to": "Online Services",
+    "relation": "manages group"
+  },
+  {
+    "from": "Pro Apps",
+    "to": "Final Cut Pro",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Pro Apps",
+    "to": "Logic Pro",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Final Cut Pro",
+    "to": "Magnetic Timeline",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Final Cut Pro",
+    "to": "ProRes Codec Support",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Logic Pro",
+    "to": "Live Loops & Sampler",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Logic Pro",
+    "to": "Dolby Atmos Mixing",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Online Services",
+    "to": "App Store Platform",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Online Services",
+    "to": "Apple Music Service",
+    "relation": "offers feature"
+  },
+  {
+    "from": "App Store Platform",
+    "to": "App Review Process",
+    "relation": "provides detail"
+  },
+  {
+    "from": "App Store Platform",
+    "to": "In-App Purchase System",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Apple Music Service",
+    "to": "Spatial Audio with Dolby Atmos",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Apple Music Service",
+    "to": "Lossless Audio Quality",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Apple Vision & Spatial",
+    "to": "visionOS Platform",
+    "relation": "manages group"
+  },
+  {
+    "from": "Apple Vision & Spatial",
+    "to": "Vision Pro Apps Ecosystem",
+    "relation": "manages group"
+  },
+  {
+    "from": "visionOS Platform",
+    "to": "Spatial Computing Engine",
+    "relation": "offers feature"
+  },
+  {
+    "from": "visionOS Platform",
+    "to": "Persona & EyeSight",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Spatial Computing Engine",
+    "to": "Real-time 3D Rendering",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Spatial Computing Engine",
+    "to": "Hand & Eye Tracking",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Persona & EyeSight",
+    "to": "Dynamic Persona Generation",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Persona & EyeSight",
+    "to": "EyeSight Display Technology",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Vision Pro Apps Ecosystem",
+    "to": "Immersive Entertainment Apps",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Vision Pro Apps Ecosystem",
+    "to": "Spatial Productivity Tools",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Immersive Entertainment Apps",
+    "to": "3D Movie Playback",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Immersive Entertainment Apps",
+    "to": "Spatial Games",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Spatial Productivity Tools",
+    "to": "Infinite Canvas Apps",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Spatial Productivity Tools",
+    "to": "Collaborative Spatial Environments",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Amazon",
+    "to": "Amazon Web Services (AWS)",
+    "relation": "contains division"
+  },
+  {
+    "from": "Amazon",
+    "to": "Amazon Devices & Digital",
+    "relation": "contains division"
+  },
+  {
+    "from": "Amazon",
+    "to": "Amazon E-commerce Technology",
+    "relation": "contains division"
+  },
+  {
+    "from": "Amazon Web Services (AWS)",
+    "to": "AWS Compute",
+    "relation": "manages group"
+  },
+  {
+    "from": "Amazon Web Services (AWS)",
+    "to": "AWS Storage & Databases",
+    "relation": "manages group"
+  },
+  {
+    "from": "AWS Compute",
+    "to": "Amazon EC2",
+    "relation": "offers feature"
+  },
+  {
+    "from": "AWS Compute",
+    "to": "AWS Lambda",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Amazon EC2",
+    "to": "EC2 Instance Types (e.g., t3, m5)",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Amazon EC2",
+    "to": "EC2 Auto Scaling",
+    "relation": "provides detail"
+  },
+  {
+    "from": "AWS Lambda",
+    "to": "Lambda Runtimes (Node.js, Python)",
+    "relation": "provides detail"
+  },
+  {
+    "from": "AWS Lambda",
+    "to": "Lambda Event Triggers",
+    "relation": "provides detail"
+  },
+  {
+    "from": "AWS Storage & Databases",
+    "to": "Amazon S3",
+    "relation": "offers feature"
+  },
+  {
+    "from": "AWS Storage & Databases",
+    "to": "Amazon RDS",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Amazon S3",
+    "to": "S3 Storage Classes (Standard, Glacier)",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Amazon S3",
+    "to": "S3 Versioning & Lifecycle",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Amazon RDS",
+    "to": "RDS Database Engines (MySQL, PostgreSQL)",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Amazon RDS",
+    "to": "RDS Multi-AZ Deployments",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Amazon Devices & Digital",
+    "to": "Alexa AI & Voice Services",
+    "relation": "manages group"
+  },
+  {
+    "from": "Amazon Devices & Digital",
+    "to": "Kindle E-readers & Content",
+    "relation": "manages group"
+  },
+  {
+    "from": "Alexa AI & Voice Services",
+    "to": "Alexa Skills Kit (ASK)",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Alexa AI & Voice Services",
+    "to": "Alexa Smart Home",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Alexa Skills Kit (ASK)",
+    "to": "Custom Skill Development",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Alexa Skills Kit (ASK)",
+    "to": "Skill Monetization Options",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Alexa Smart Home",
+    "to": "Device Discovery & Control APIs",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Alexa Smart Home",
+    "to": "Smart Home Routines",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Kindle E-readers & Content",
+    "to": "Kindle Device Software",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Kindle E-readers & Content",
+    "to": "Kindle Direct Publishing (KDP)",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Kindle Device Software",
+    "to": "E-Ink Display Drivers",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Kindle Device Software",
+    "to": "Whispersync Technology",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Kindle Direct Publishing (KDP)",
+    "to": "eBook & Paperback Publishing",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Kindle Direct Publishing (KDP)",
+    "to": "Royalty & Reporting Systems",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Amazon E-commerce Technology",
+    "to": "Marketplace Platform Services",
+    "relation": "manages group"
+  },
+  {
+    "from": "Amazon E-commerce Technology",
+    "to": "Customer Experience & AI",
+    "relation": "manages group"
+  },
+  {
+    "from": "Marketplace Platform Services",
+    "to": "Seller Central Tech",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Marketplace Platform Services",
+    "to": "Fulfillment & Logistics Software",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Seller Central Tech",
+    "to": "Inventory Management Systems",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Seller Central Tech",
+    "to": "Listing & Catalog APIs",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Fulfillment & Logistics Software",
+    "to": "Fulfillment by Amazon (FBA) Systems",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Fulfillment & Logistics Software",
+    "to": "Shipping & Delivery Optimization",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Customer Experience & AI",
+    "to": "Recommendation Engines",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Customer Experience & AI",
+    "to": "Customer Service Platforms",
+    "relation": "offers feature"
+  },
+  {
+    "from": "Recommendation Engines",
+    "to": "Collaborative Filtering Algorithms",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Recommendation Engines",
+    "to": "Personalized Search Results",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Customer Service Platforms",
+    "to": "AI-Powered Chatbots & Support",
+    "relation": "provides detail"
+  },
+  {
+    "from": "Customer Service Platforms",
+    "to": "Ticketing & Case Management",
+    "relation": "provides detail"
+  }
+]
+

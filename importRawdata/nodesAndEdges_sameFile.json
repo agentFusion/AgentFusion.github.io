@@ -1,0 +1,38 @@
+{
+    "nodes": [
+        {
+            "title": "a",
+            "content": "a",
+            "tags": "a",
+            "img": "a"
+        },
+        {
+            "title": "b",
+            "content": "b",
+            "tags": "b",
+            "img": "b"
+        },
+        {
+            "title": "c",
+            "content": "c",
+            "tags": "c",
+            "img": "c"
+        },
+        {
+            "title": "d",
+            "content": "d",
+            "tags": "d",
+            "img": "d"
+        }
+    ],
+    "edges": [
+        {
+            "from": "a",
+            "to": "b"
+        },
+        {
+            "from": "a",
+            "to": "c"
+        }
+    ]
+}
