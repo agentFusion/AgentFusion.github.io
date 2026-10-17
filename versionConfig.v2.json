@@ -1,5 +1,5 @@
 {
-    "version": "2.0.4",
+    "version": "2.0.5",
     "migrationList": [
         [
             "/manifest.json",
@@ -395,7 +395,7 @@
     "migrationList_native": [
         [
             "/ota/index.android.bundle",
-            "fakeHash_195339"
+            "fakeHash_195340"
         ],
         [
             "/webviews/pageVisitor_9/all.js",
